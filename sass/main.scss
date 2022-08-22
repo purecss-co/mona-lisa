@@ -2896,10 +2896,10 @@ body {
       width: 6vmin;
       height: 18vmin;
       background: $bg-color;
-      border-radius: 50%;
       top: -19vmin;
       left: -0.4vmin;
       transform: rotate(5deg);
+      border-radius: 50%;
     }
 
     &::after {
