@@ -12,6 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.27.10",
-    "node-sass": "^7.0.3"
+    "node-sass": "^8.0.0"
   }
 }
